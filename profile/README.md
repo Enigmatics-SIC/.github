@@ -23,8 +23,8 @@ Hello and welcome to our repository! 🚀 We are a passionate team of developers
 
 | Group ID | Group | Name | Roles | University |
 |---|---|---|---|---|
-| UNI449 | Enigmatics | Clavino Ourizqi Rachmadi | AI Engineer | Universitas Mercu Buana |
 | UNI449 | Enigmatics | Naufal Rahfi Anugerah | Project Lead | Universitas Mercu Buana |
+| UNI449 | Enigmatics | Clavino Ourizqi Rachmadi | AI Engineer | Universitas Mercu Buana |
 | UNI449 | Enigmatics | Ibka Anhar Fatcha | Full Stack Engineer | Universitas Mercu Buana |
 | UNI449 | Enigmatics | Muhammad Nur Arif | IoT Engineer | Universitas Mercu Buana |
 
